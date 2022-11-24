@@ -1,0 +1,12 @@
+C:\Users\ComputerLab4PC1\source\repos\moratallaPre-fi\bin\Debug\moratallaPre-fi.exe.config
+C:\Users\ComputerLab4PC1\source\repos\moratallaPre-fi\bin\Debug\moratallaPre-fi.exe
+C:\Users\ComputerLab4PC1\source\repos\moratallaPre-fi\bin\Debug\moratallaPre-fi.pdb
+C:\Users\ComputerLab4PC1\source\repos\moratallaPre-fi\obj\Debug\moratallaPre-fi.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\moratallaPre-fi\obj\Debug\moratallaPre_fi.FrmLab1.resources
+C:\Users\ComputerLab4PC1\source\repos\moratallaPre-fi\obj\Debug\moratallaPre_fi.FrmFileName.resources
+C:\Users\ComputerLab4PC1\source\repos\moratallaPre-fi\obj\Debug\moratallaPre_fi.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\moratallaPre-fi\obj\Debug\moratallaPre-fi.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\moratallaPre-fi\obj\Debug\moratallaPre-fi.exe
+C:\Users\ComputerLab4PC1\source\repos\moratallaPre-fi\obj\Debug\moratallaPre-fi.pdb
+C:\Users\ComputerLab4PC1\source\repos\moratallaPre-fi\obj\Debug\moratallaPre_fi.FrmRegistration.resources
+C:\Users\ComputerLab4PC1\source\repos\moratallaPre-fi\obj\Debug\moratallaPre_fi.FrmStudentRecord.resources
